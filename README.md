@@ -38,4 +38,4 @@ The findings obtained can be found [here](https://jbronyah.medium.com/no-phd-no-
 
 <a name="ack"></a>
 ## Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017). Otherwise, feel free to use the code here as you would like!
