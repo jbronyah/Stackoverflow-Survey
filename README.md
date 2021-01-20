@@ -34,7 +34,7 @@ The survey data and schema data are also provided
 
 <a name="rslts"></a>
 ## Results
-The findings obtained can be found here
+The findings obtained can be found [here](https://jbronyah.medium.com/no-phd-no-problem-you-can-still-be-a-developer-c54e15140ede)
 
 <a name="ack"></a>
 ## Licensing, Authors, Acknowledgements
